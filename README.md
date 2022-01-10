@@ -1,4 +1,4 @@
-- Hi, I'm Kevin Riemer, @khreems88. I've been teaching myself the basics of various coding languages with an emphasis on Python, React.js, and Node.js.
+- Hi, I'm Kevin Riemer, @khriemer2596. I've been teaching myself the basics of various coding languages with an emphasis on Python, React.js, and Node.js.
 - I’m interested in front-end and back-end development, as well as machine learning.
 - I’m currently learning the basics of React.js and Node.js.
 - I’m looking to collaborate on any basic projects utilizing React.js and Node.js.
