@@ -1,7 +1,8 @@
-- Hi, I'm Kevin Riemer, @khriemer2596. I've been teaching myself the basics of various coding languages with an emphasis on Python, React.js, and Node.js.
+- Hi, I'm Kevin, @khriemer2596. I'm working on a BS in CS.
+- I am proficient in Python, JavaScript (with Node.js, React.js, and Express), HTML, and CSS.
+- I also have experience with Java and C++.
 - I’m interested in front-end and back-end development, as well as machine learning.
-- I’m currently learning the basics of React.js and Node.js.
-- I’m looking to collaborate on any basic projects utilizing React.js and Node.js.
+- I’m currently learning more about Data Structures and Algorithms.
 - Feel free to reach me at khriemer@gmail.com.
 
 <!---
