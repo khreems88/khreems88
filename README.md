@@ -2,7 +2,6 @@
 - I am proficient in Python, JavaScript (with Node.js, React.js, and Express), HTML, and CSS.
 - I also have experience with Java and C++, and am familiar with MongoDB.
 - I’m interested in front-end and back-end development, as well as machine learning.
-- I’m currently learning more about Data Structures and Algorithms.
 - Feel free to reach me at khriemer@gmail.com.
 
 <!---
