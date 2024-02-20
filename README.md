@@ -1,5 +1,5 @@
 - Hi, I'm Kevin, @khriemer2596. I'm 28 years old and have 5 years of professional experience as an Electrical Engineer.
-- I am currently working on a BS in CS at Oregon State University, and I will graduate in June 2024
+- I am currently working on a BS in CS at Oregon State University, and I will graduate in June 2024.
 - I am proficient in Python, JavaScript (with Node.js, React.js, and Express), HTML, CSS, and Kotlin/Java.
 - I also have experience with C/C++, SQL/SQLite, and am familiar with MongoDB.
 - I’m interested in back-end development and am seeking new opportunities to advance my career.
