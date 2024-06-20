@@ -2,7 +2,7 @@
 - I graduated with my BS in CS at Oregon State University in June 2024.
 - I am proficient in Python, JavaScript (with Node.js, React.js, Next.js, and Express), HTML, CSS, and Kotlin/Java.
 - I also have experience with C/C++, MySQL, and am familiar with MongoDB.
-- I’m interested in back-end development and am seeking new opportunities to advance my career.
+- I’m interested in mobile development and back-end development and am seeking new opportunities to advance my career.
 - Feel free to reach me at khriemer@gmail.com.
 
 <!---
